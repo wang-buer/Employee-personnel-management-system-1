@@ -1,4 +1,4 @@
-# 员工人事管理系统
+# 员工人事管理系统1
 
 ## 1、项目介绍
 
@@ -29,38 +29,34 @@
 
 ### 4.1 登录
 
-![登录1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%99%BB%E5%BD%951.jpg)
+![登录1](https://www.codeshop.fun/Typora-Images/%E7%99%BB%E5%BD%951.jpg)
 
 员工和管理员可以通过此界面登录系统
 
 ### 4.2 管理员模块
 
-![管理员-查看员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%AE%A1%E7%90%86%E5%91%98-%E6%9F%A5%E7%9C%8B%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF.jpg)
+![管理员-查看员工信息](https://www.codeshop.fun/Typora-Images/%E7%AE%A1%E7%90%86%E5%91%98-%E6%9F%A5%E7%9C%8B%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF.jpg)
 
-![管理员-查看员工工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%AE%A1%E7%90%86%E5%91%98-%E6%9F%A5%E7%9C%8B%E5%91%98%E5%B7%A5%E5%B7%A5%E8%B5%84.jpg)
+![管理员-查看员工工资](https://www.codeshop.fun/Typora-Images/%E7%AE%A1%E7%90%86%E5%91%98-%E6%9F%A5%E7%9C%8B%E5%91%98%E5%B7%A5%E5%B7%A5%E8%B5%84.jpg)
 
-![管理员-发放工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%AE%A1%E7%90%86%E5%91%98-%E5%8F%91%E6%94%BE%E5%B7%A5%E8%B5%84.jpg)
+![管理员-发放工资](https://www.codeshop.fun/Typora-Images/%E7%AE%A1%E7%90%86%E5%91%98-%E5%8F%91%E6%94%BE%E5%B7%A5%E8%B5%84.jpg)
 
 管理员可以查看工资的发放明细，查看员工信息并发放工资，发布和管理公告等
 
 ### 4.3 员工模块
 
-![员工添加个人简历](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%91%98%E5%B7%A5%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.jpg)
+![员工添加个人简历](https://www.codeshop.fun/Typora-Images/%E5%91%98%E5%B7%A5%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.jpg)
 
-![员工-查看工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%91%98%E5%B7%A5-%E6%9F%A5%E7%9C%8B%E5%B7%A5%E8%B5%84.jpg)
+![员工-查看工资](https://www.codeshop.fun/Typora-Images/%E5%91%98%E5%B7%A5-%E6%9F%A5%E7%9C%8B%E5%B7%A5%E8%B5%84.jpg)
 
-![员工-查看通知1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%91%98%E5%B7%A5-%E6%9F%A5%E7%9C%8B%E9%80%9A%E7%9F%A51.jpg)
+![员工-查看通知1](https://www.codeshop.fun/Typora-Images/%E5%91%98%E5%B7%A5-%E6%9F%A5%E7%9C%8B%E9%80%9A%E7%9F%A51.jpg)
 
-![员工-查看通知2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%91%98%E5%B7%A5-%E6%9F%A5%E7%9C%8B%E9%80%9A%E7%9F%A52.jpg)
+![员工-查看通知2](https://www.codeshop.fun/Typora-Images/%E5%91%98%E5%B7%A5-%E6%9F%A5%E7%9C%8B%E9%80%9A%E7%9F%A52.jpg)
 
 员工可以通过月份筛选工资记录，还可以查看公告、添加简历、查看通讯录等
+## 获取方式
 
-## 5、获取方式
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-扫描下方，回复 “**员工1** ” ，以获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
-
-
-  
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
